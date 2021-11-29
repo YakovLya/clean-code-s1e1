@@ -53,7 +53,8 @@
   list-style: none;
 }
 
-.input, .btn{
+.input,
+.btn {
   outline: none;
 }
 
@@ -120,7 +121,11 @@
   align-items: center;
 }
 
-.item__check, .item__label, .item__task, .item__edit-btn, .delete{
+.item__check,
+.item__label, 
+.item__task, 
+.item__edit-btn, 
+.delete{
   vertical-align: middle;
 }
 
